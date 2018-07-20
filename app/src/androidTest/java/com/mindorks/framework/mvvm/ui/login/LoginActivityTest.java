@@ -41,6 +41,7 @@ public class LoginActivityTest {
     @Rule
     public ActivityTestRule<LoginActivity> mActivityRule = new ActivityTestRule<>(LoginActivity.class);
 
+
     @Test
     public void checkViewsDisplay() {
 
